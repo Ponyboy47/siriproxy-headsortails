@@ -1,0 +1,4 @@
+This plugin is pretty simple and easy to use. Add the appropriate settings from the config-info.yml into your ~/.siriproxy/config.yml and bundle then start SiriProxy.
+Then all you do is ask Siri if it's "heads or tails" and she responds with one of the two. No need to open an app or look for a coin anymore.
+
+PS - I have some different pictures that I commented out. If you'd like to use them just switch the URL's..
